@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(141, 238, 149);
+    color: red;
+}
+.border{
+    background:rgb(21, 3, 30);
+    border-radius: 30px;
+    border: 2px solid wheat;
+    width: 100vh;
+ margin: 250px;
+ margin-right: 50px;
+}
+.Time{
+    text-align: center;
+    font-size: 100px;
+   text-shadow: 0px 0px 8px rgb(232, 124, 124);
+}
